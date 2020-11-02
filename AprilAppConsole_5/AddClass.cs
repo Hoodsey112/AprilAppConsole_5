@@ -6,6 +6,10 @@ namespace AprilAppConsole_5
 {
     class AddClass
     {
+        /// <summary>
+        /// Функция по добавлению товара в базу
+        /// </summary>
+        /// <param name="product"></param>
         public static void AddProduct(ParsingClass product)
         {
             try
